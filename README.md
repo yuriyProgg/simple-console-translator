@@ -1,2 +1,2 @@
 # Simple console langugae translator
-[screenshort](screenshort.png)
+![image](screenshort.png)
